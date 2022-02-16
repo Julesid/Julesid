@@ -7,16 +7,21 @@ Hi there, I'm Jules 👋
 </h3>
 
 
-- 🔭 I’m currently working on
+## 🔭 I’m currently working on
 
 
-- 🌱 I’m currently learning
 
+## 🌱 I’m currently learning
 
-- 🔧 My abilities
+- Video game creation 
+- Web development
 
+## 🔧 My abilities
 
-- 📫 How to reach me:
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+
+## 📫 How to reach me:
 
 
 
