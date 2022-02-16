@@ -9,7 +9,7 @@ Hi there, I'm Jules 👋
 
 ## 🔭 I’m currently working on
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliiiBenn&repo=MysteryLand)](https://github.com/AliiiBenn/MysteryLand)
 
 ## 🌱 I’m currently learning
 
