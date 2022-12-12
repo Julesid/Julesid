@@ -9,7 +9,7 @@ Hi there, I'm Jules 👋
 
 ## 🔭 I’m currently working on
 
-[![Readme Card](https://github.com/Julesid/my_own_website)](https://github.com/AliiiBenn/MisteryLand)
+[![Readme Card](https://github.com/Julesid/my_own_website)](https://github.com/Julesid/my_own_website)
 
 ## 🌱 I’m currently learning
 
