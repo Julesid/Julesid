@@ -22,9 +22,12 @@ Hi there, I'm Jules 👋
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&color=efd81d)
 
+
 </br>
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Javascript&color=efd81d)
 
 </br>
 
