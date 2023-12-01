@@ -9,7 +9,7 @@ Hi there, I'm Jules 👋
 
 ## 🔭 I’m currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julesid&repo=basketclub-sio)](https://github.com/Julesid/basketclub-sio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Julesid&repo=basketclub-sio)](https://github.com/Julesid/basketclub-sio)
 
 ## 🌱 I’m currently learning
 
@@ -35,7 +35,6 @@ Hi there, I'm Jules 👋
 
 ## 📈 Stats 
 
-[![Jules's github stats](https://github-readme-stats.vercel.app/api?username=Julesid)](https://github.com/Julesid)
-
+![Julesid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julesid&theme=transparent&show_icons=true)
 
 
