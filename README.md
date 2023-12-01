@@ -21,7 +21,7 @@ Hi there, I'm Jules 👋
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&color=efd81d)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=0e88cc)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=0e88cc)
 
 </br>
 
