@@ -9,7 +9,7 @@ Hi there, I'm Jules 👋
 
 ## 🔭 I’m currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Julesid&repo=web_me&theme=transparent)](https://github.com/Julesid/web_me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Julesid&repo=web_me&theme=prussian)](https://github.com/Julesid/web_me)
 
 ## 🌱 I’m currently learning
 
@@ -35,6 +35,6 @@ Hi there, I'm Jules 👋
 
 ## 📈 Stats 
 
-![Julesid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julesid&theme=transparent&show_icons=true)
+![Julesid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julesid&theme=prussian&show_icons=true)
 
 
